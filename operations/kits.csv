@@ -1,0 +1,6 @@
+sequence,kit_id,band,home_station,channel_count
+1,RK-A,VHF,North,2
+2,RK-B,UHF,East,2
+3,RK-C,VHF,West,1
+4,RK-D,UHF,South,3
+5,RK-E,VHF,North,2
